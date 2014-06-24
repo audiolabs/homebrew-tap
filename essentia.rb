@@ -8,7 +8,7 @@ class Essentia < Formula
   head 'https://github.com/MTG/essentia.git'
 
   depends_on "pkg-config"
-  depends_on "gfortran"
+  depends_on "gcc"
   depends_on "readline"
   depends_on "sqlite"
   depends_on "gdbm"
