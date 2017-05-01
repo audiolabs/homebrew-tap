@@ -12,4 +12,4 @@ You can install this tap using
 
 afterwards you can install all formulae directly from homebrew, e.g
 
-    brew install essentia
+    brew install afsp
